@@ -1,4 +1,6 @@
 package TriangleLab;
+// Sorry Ms. Qiu! 
+// "submited late" due to issues with codeHS (codeHS not saving!)
 
 import java.util.Scanner;
 public class TrianglePatterns {
